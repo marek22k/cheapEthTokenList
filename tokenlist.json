@@ -62,6 +62,13 @@
             "symbol": "pNd",
             "decimals": 18,
             "logoURI": "https://pumpndump.me/pNd.svg"
+        },
+        {
+            "chainId": 777,
+            "address": "0xa34273ce752f5a8e926fa213bb08728b2387e8f5",
+            "name": "BugCoin",
+            "symbol": "BUG",
+            "decimals": 18
         }
     ]
 }
