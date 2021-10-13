@@ -1,5 +1,5 @@
 # cheapEthTokenList
-A list of tokens from Discord's #cheap-projects channel [[Discords Invite](https://discord.gg/r3WUGxzUH8)].
+A list of tokens from Discord's #cheap-projects channel [[Discord Invite](https://discord.gg/r3WUGxzUH8)].
 
 ## Links
 - List on tokenlists.org: https://tokenlists.org/token-list?url=https://raw.githubusercontent.com/marek22k/cheapEthTokenList/main/tokenlist.json
