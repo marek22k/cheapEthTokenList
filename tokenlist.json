@@ -7,7 +7,7 @@
         "patch": 0
     },
     "tags": {},
-    "logoURI": "",
+    "logoURI": "https://cheapethereum.org/img/cth/cth_symbol.svg",
     "keywords": [
         "cheapeth"
     ],
@@ -17,16 +17,14 @@
             "address": "0x1779ae32faab2cbc2b97140802043fb833ef0135",
             "name": "ANISHA",
             "symbol": "ANI",
-            "decimals": 18,
-            "logoURI": ""
+            "decimals": 18
         },
         {
             "chainId": 777,
             "address": "0xFdBD3678d0179a52F30a8769b0D7b390a9f82EfE",
             "name": "FIX",
             "symbol": "FIX",
-            "decimals": 18,
-            "logoURI": ""
+            "decimals": 18
         },
         {
             "chainId": 777,
@@ -48,16 +46,14 @@
             "address": "0xa91392e08cE5E06Ad3Cf8E0460bF0e45A564BE14",
             "name": "mrfixit token",
             "symbol": "MFT",
-            "decimals": 18,
-            "logoURI": ""
+            "decimals": 18
         },
         {
             "chainId": 777,
             "address": "0x85DF4b0968d48a9045D00bFF440f89635a65796B",
             "name": "CheapLink",
             "symbol": "CLINK",
-            "decimals": 18,
-            "logoURI": ""
+            "decimals": 18
         },
         {
             "chainId": 777,
