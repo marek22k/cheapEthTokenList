@@ -1,10 +1,10 @@
 {
     "name": "cheapEthTokenList",
-    "timestamp": "2021-10-13T21:54:00.000Z",
+    "timestamp": "2021-10-16T17:48:00.000Z",
     "version": {
         "major": 1,
-        "minor": 3,
-        "patch": 0
+        "minor": 4,
+        "patch": 1
     },
     "tags": {},
     "logoURI": "https://cheapethereum.org/img/cth/cth_symbol.svg",
