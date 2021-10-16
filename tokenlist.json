@@ -1,10 +1,10 @@
 {
     "name": "cheapEthTokenList",
-    "timestamp": "2021-10-16T17:48:00.000Z",
+    "timestamp": "2021-10-16T20:14:00.000Z",
     "version": {
         "major": 1,
         "minor": 4,
-        "patch": 1
+        "patch": 2
     },
     "tags": {},
     "logoURI": "https://cheapethereum.org/img/cth/cth_symbol.svg",
@@ -69,7 +69,7 @@
             "address": "0xa34273ce752f5a8e926fa213bb08728b2387e8f5",
             "name": "BugCoin",
             "symbol": "BUG",
-            "decimals": 18,
+            "decimals": 7,
             "logoURI": "https://my.bugminer.org/static/img/bugminer.png"
         },
         {
